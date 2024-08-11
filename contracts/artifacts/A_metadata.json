@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/MultiSign.sol": "A"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/MultiSign.sol": {
+			"keccak256": "0xe7c1bbbbd04f1088f27938d9771c92352851c65b65287aa349a5f969d419cbbf",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f0fc069b5bf6b720cd48a3523989e71f5000110f48119b73b209e8c0da3e7b82",
+				"dweb:/ipfs/QmPqwQj7eQVekiCwqXsxraVQafC42YP2des6F4yaH9xqBX"
+			]
+		}
+	},
+	"version": 1
+}
